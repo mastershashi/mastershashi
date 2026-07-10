@@ -1,16 +1,15 @@
 # 💫 About Me:
 # Hey, I'm Shashi Kumar 👋
 
-### Senior Software Engineer | Distributed Systems | AI Infrastructure | DevOps
+### Senior Software Engineer | Distributed Systems | Gen AI  Integration | DevOps
 
 I build scalable backend systems, real-time streaming platforms, cloud-native infrastructure, and AI-powered automation pipelines.
 
 Currently focused on:
 - ⚡ Large-scale distributed systems & microservices
-- 🎥 Real-time video streaming (WebRTC • RTMP • Kafka)
+- 📈 High-performance backend engineering in Java, Go & Node.js 
 - ☁️ Cloud-native DevOps (Docker • Kubernetes • AWS • Jenkins)
 - 🤖 AI agents, LLM workflows & autonomous pipelines
-- 📈 High-performance backend engineering in Java & Node.js
 
 ---
 
@@ -19,7 +18,7 @@ Currently focused on:
 - Distributed live-streaming platforms handling real-time video delivery
 - AI-driven automation systems for content generation & workflows
 - CI/CD platforms with multi-stage global deployments
-- Event-driven architectures using Kafka, Redis & ScyllaDB
+- Event-driven architectures using Kafka, Redis & Aerospike
 - Production-grade backend services with scalability & reliability focus
 
 ---
@@ -27,13 +26,10 @@ Currently focused on:
 ## 🛠 Tech Stack
 
 ### Backend & Systems
-`Java` `Spring Boot` `Node.js` `Python` `Kafka` `Redis` `ScyllaDB`
+`Java` `Spring Boot` `Node.js` `Python` `Kafka` `Redis`
 
 ### Cloud & DevOps
 `AWS` `Docker` `Kubernetes` `Jenkins` `Nginx` `Terraform`
-
-### Streaming & Real-Time
-`WebRTC` `RTMP`
 
 ### Frontend
 `React` `TypeScript` `Next.js`
