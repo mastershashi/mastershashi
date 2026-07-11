@@ -15,11 +15,10 @@ Currently focused on:
 
 ## 🚀 What I Build
 
-- Distributed live-streaming platforms handling real-time video delivery
-- AI-driven automation systems for content generation & workflows
-- CI/CD platforms with multi-stage global deployments
 - Event-driven architectures using Kafka, Redis & Aerospike
 - Production-grade backend services with scalability & reliability focus
+- AI-driven automation systems for content generation & workflows
+- CI/CD platforms with multi-stage global deployments
 
 ---
 
